@@ -1,255 +1,232 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Shrikrushn%20Bhise&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20Engineer%20%7C%20AI%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=180&section=header&text=Shrikrushn%20Bhise&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Backend%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Full%20Stack%20Developer&descAlignY=62&descSize=16&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=Building+AI-Powered+Products+%F0%9F%9A%80;Backend+Systems+%7C+Scalable+Architecture+%E2%9A%99%EF%B8%8F;Founder+in+Progress+%7C+FitBuddy+%F0%9F%8F%8B%EF%B8%8F;Computer+Science+%40+B.Tech+%F0%9F%8E%93;Turning+Ideas+into+Production+Code+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Building+AI-powered+products+from+scratch;Backend+systems+%7C+Scalable+architecture;Full+Stack+Developer+%7C+B.Tech+CS;Turning+complex+problems+into+clean+code)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://shrikrushn-web.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%230f0c29.svg?style=for-the-badge&logo=vercel&logoColor=A78BFA&label=🌐" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-shrikrushn--web.vercel.app-58A6FF?style=flat-square&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/shrikrushn-bhise-77a1b8328/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="https://github.com/Shrikrushn07" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Shrikrushn%20Bhise-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shrikrushn07&color=A78BFA&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Shrikrushn07&color=58A6FF&style=flat-square&label=Profile+Views)
 &nbsp;
-![GitHub followers](https://img.shields.io/github/followers/Shrikrushn07?style=flat-square&color=A78BFA&label=FOLLOWERS)
+![GitHub followers](https://img.shields.io/github/followers/Shrikrushn07?style=flat-square&color=58A6FF&label=Followers)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       ABOUT ME SECTION                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3&section=header" width="100%"/>
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> &nbsp;About Me
-
-```typescript
+```ts
 const shrikrushn = {
-  role      : "Full Stack Developer → Backend-Focused Engineer",
-  education : "B.Tech Computer Science",
-  building  : ["FitBuddy (Gym-tech Startup)", "Saksham AI (AI Backend Systems)"],
-  focus     : ["AI Products", "Scalable Backend", "System Design"],
-  philosophy: "Ship fast. Build right. Scale smart.",
-  currentlyLearning : ["LLM Orchestration", "Distributed Systems", "DevOps"],
-  openTo    : ["Internships", "Open Source", "Startup Collabs"],
+  focus     : ["Backend Engineering", "AI Product Development", "Full Stack"],
+  education : "B.Tech — Computer Science",
+  building  : ["FitBuddy (Gym-tech platform)", "Saksham AI (AI backend systems)"],
+  interests : ["LLMs", "RAG Systems", "Distributed Architecture", "DevOps"],
+  open_to   : ["Internships", "Backend / AI Roles", "Open Source Collaboration"],
+  principle : "Write code that scales. Build products that matter.",
 };
 ```
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CURRENTLY BUILDING                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🔨 &nbsp;Currently Building
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <h3>🏋️ FitBuddy</h3>
-      <p><b>Gym-Tech Startup</b></p>
-      <p>An AI-powered fitness companion platform connecting gym-goers with personalised workout tracking, trainer matching, and real-time progress analytics. Building the full backend infrastructure from scratch.</p>
-      <img src="https://img.shields.io/badge/Status-In%20Development-A78BFA?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Type-Startup-302b63?style=flat-square&logoColor=white"/>
-    </td>
-    <td align="center" width="50%">
-      <h3>🤖 Saksham AI</h3>
-      <p><b>AI Backend Systems</b></p>
-      <p>Designing production-grade AI backend pipelines — RAG systems, LLM integrations, and intelligent automation workflows. Focused on making AI reliable, fast, and deployable at scale.</p>
-      <img src="https://img.shields.io/badge/Status-Active-A78BFA?style=flat-square"/>
-      &nbsp;
-      <img src="https://img.shields.io/badge/Type-AI%20Product-302b63?style=flat-square&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURED PROJECTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 &nbsp;Featured Projects
+## What I Bring
 
 <div align="center">
 
-| Project | Description | Stack | Links |
-|:-------:|:-----------:|:-----:|:-----:|
-| **🏋️ FitBuddy** | Gym-tech startup — AI fitness platform with smart workout tracking & trainer matching | `Node.js` `React` `MongoDB` `AI` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Shrikrushn07/FitBuddy) |
-| **🤖 Saksham AI** | Production AI backend — RAG pipelines, LLM integrations & automation workflows | `Python` `FastAPI` `LangChain` `OpenAI` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Shrikrushn07/Saksham-AI) |
-| **🏥 HealthSakshamModel** | SIH 2025 — Intelligent healthcare chatbot built for national-level hackathon | `Python` `NLP` `ML` `Flask` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Shrikrushn07/HealthSakshamModel) |
-| **🔍 InsightLens AI** | AI-powered file analyzer — extract insights from documents using LLMs | `Python` `Streamlit` `OpenAI` `LangChain` | [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Shrikrushn07/insightlens-ai) |
-| **🌐 Portfolio** | Personal portfolio — blazing fast, fully responsive, modern design | `React` `Vite` `Tailwind CSS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=vercel)](https://shrikrushn-web.vercel.app/) [![Repo](https://img.shields.io/badge/Code-181717?style=flat-square&logo=github)](https://github.com/Shrikrushn07) |
+| | |
+|:---|:---|
+| **Backend Engineering** | Designing REST APIs, microservices, and server-side systems built for performance and reliability |
+| **AI Integration** | Building LLM-powered backends — RAG pipelines, intelligent automation, and AI product infrastructure |
+| **Full Stack** | End-to-end development from React frontends to Node.js/FastAPI backends with clean deployment |
+| **Startup Mindset** | Fast iteration, pragmatic architecture decisions, and ownership across the full product lifecycle |
 
 </div>
 
+---
+
+## Featured Projects
+
 <br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚙️ &nbsp;Tech Stack
 
 <div align="center">
 
-#### 🖥️ Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-#### 🎨 Frontend
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-#### 🔧 Backend
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
-
-#### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-
-#### 🤖 AI / ML
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
-
-#### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [**FitBuddy**](https://github.com/Shrikrushn07) | Gym-tech platform — AI fitness companion with workout tracking, trainer matching, and progress analytics. Full backend infrastructure built from scratch. | `Node.js` `React` `MongoDB` `REST API` |
+| [**Saksham AI**](https://github.com/Shrikrushn07) | Production-grade AI backend system — RAG pipelines, LLM integrations, and intelligent workflow automation built for real-world deployment. | `Python` `FastAPI` `LangChain` `OpenAI` |
+| [**HealthSakshamModel**](https://github.com/Shrikrushn07/HealthSakshamModel) | Healthcare chatbot built for **Smart India Hackathon 2025** — NLP-driven Q&A system for patient guidance and medical information retrieval. | `Python` `NLP` `Flask` `ML` |
+| [**InsightLens AI**](https://github.com/Shrikrushn07/insightlens-ai) | AI-powered document analyzer — upload any file and extract structured insights, summaries, and answers using LLMs. | `Python` `Streamlit` `LangChain` `OpenAI` |
+| [**Portfolio**](https://shrikrushn-web.vercel.app/) | Personal portfolio — fast, responsive, modern. Built with React + Vite + Tailwind and deployed on Vercel. | `React` `Vite` `Tailwind CSS` |
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB STATS & TROPHIES                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 &nbsp;GitHub Stats & Achievements
+## Tech Stack
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Shrikrushn07&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" width="100%" alt="Trophies"/>
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+**Databases & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**AI / ML**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrikrushn07&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=Shrikrushn07&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e" alt="Streak Stats"/>
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shrikrushn07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrikrushn07&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=c9d1d9&dates=8b949e" alt="Streak Stats"/>
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrushn07&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrikrushn07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Shrikrushn07&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%" alt="GitHub Trophies"/>
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌊 &nbsp;Contribution Activity
+## Contribution Graph
 
 <div align="center">
 
-[![Shrikrushn's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrikrushn07&bg_color=0D1117&color=A78BFA&line=7C3AED&point=A78BFA&area=true&area_color=302b63&hide_border=true&custom_title=Shrikrushn's%20Contribution%20Graph)](https://github.com/Shrikrushn07)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shrikrushn07&bg_color=0d1117&color=58A6FF&line=1f6feb&point=58A6FF&area=true&area_color=1f2b3f&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/Shrikrushn07)
 
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     WHAT I STAND FOR                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💡 &nbsp;Engineering Philosophy
+## Contribution Snake
 
 <div align="center">
 
-> *"I don't just write code — I architect systems that solve real problems at scale."*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shrikrushn07/Shrikrushn07/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shrikrushn07/Shrikrushn07/output/github-snake.svg"/>
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Shrikrushn07/Shrikrushn07/output/github-snake-dark.svg" width="100%"/>
+</picture>
 
 </div>
 
-<br/>
-
-<table align="center">
-  <tr>
-    <td align="center">🏗️<br/><b>Systems First</b><br/><sub>Design before you code</sub></td>
-    <td align="center">⚡<br/><b>Ship Fast</b><br/><sub>Done > Perfect in v1</sub></td>
-    <td align="center">🤖<br/><b>AI-Augmented</b><br/><sub>LLMs as engineering tools</sub></td>
-    <td align="center">📈<br/><b>Scale Always</b><br/><sub>Build for 10x from day 1</sub></td>
-  </tr>
-</table>
+<details>
+<summary><b>Enable the snake animation</b> — click to expand setup instructions</summary>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONTACT SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Create `.github/workflows/snake.yml` in your profile repo with the following:
 
-## 📬 &nbsp;Let's Connect & Build Something
+```yaml
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Shrikrushn07
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Then run the workflow manually once from the **Actions** tab.
+
+</details>
+
+---
+
+## Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/shrikrushn-bhise-77a1b8328/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://shrikrushn-web.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Work-%23A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/Shrikrushn07" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow%20Me-%23181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-**Open to:** `Internships` &nbsp;·&nbsp; `Startup Collabs` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `AI/Backend Roles`
-
-<br/>
-
-<sub>💌 &nbsp;Reach out via LinkedIn or explore my work on GitHub. I respond fast.</sub>
+**Available for** &nbsp;`Backend Engineering Internships` &nbsp;·&nbsp; `AI / ML Roles` &nbsp;·&nbsp; `Open Source` &nbsp;·&nbsp; `Startup Teams`
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Building%20the%20Future%2C%20One%20Commit%20at%20a%20Time&fontSize=16&fontColor=A78BFA&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:0d1117&height=100&section=footer" width="100%"/>
